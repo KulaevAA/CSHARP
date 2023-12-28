@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Hello world");
 
 
-int value = 1000;
+int value = 10008;
 Console.WriteLine(value);
